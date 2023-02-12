@@ -125,3 +125,52 @@ margin-bottom: 30px;
 .skill-description{
 color: #757575;
 }
+.resume{
+text-align: center;
+margin-top: 50px;
+}
+.resume-header{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.resume-content{
+    display: flex;
+    gap: 100px;
+        background-color: #FFF8F3;
+        padding: 130px 200px;
+        text-align: left;
+    
+}
+.resume-sub-header{
+margin-bottom: 20px;
+}
+.edu-1{
+    margin-bottom: 20px;
+}
+hr{
+    margin-top: 10px;
+}
+/* Contact Style */
+.contact{
+    display: flex;
+    gap:100px;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.contact input, textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 30px;
+}
+.connect{
+    margin-top: 30px;
+}
+.message{
+    margin-top: 30px;
+}
